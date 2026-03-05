@@ -102,7 +102,7 @@ The program follows the classical **NTU-effectiveness method** for shell-and-tub
 
 | Step | Description |
 |------|-------------|
-| Heat capacity rates | $C_{h} = \dot{m}_{h} \cdot c_{p,h}$ and $C_{c} = \dot{m}_{c} \cdot c_{p,c}$ |
+| Heat capacity rates | $$C_{h} = \dot{m}_{h} \cdot c_{p,h} \qquad \text{and} \qquad C_{c} = \dot{m}_{c} \cdot c_{p,c}$$ |
 | Effectiveness | $\varepsilon = \frac{Q}{Q_{max}}$ |
 | NTU | Number of Transfer Units for 1-pass or 2-pass configuration |
 | Surface area | $S_0 = \frac{NTU \cdot C_{min}}{U_0}$ |
