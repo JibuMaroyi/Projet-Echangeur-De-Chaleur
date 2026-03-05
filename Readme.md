@@ -47,7 +47,7 @@ Projet-Echangeur-De-Chaleur/
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/JibuMaroyi/Projet-Echangeur-De-Chaleur.git
+git clone https://github.com/JibuMaroyi/Echangeur-De-Chaleur.git
 cd Projet-Echangeur-De-Chaleur
 ```
 
@@ -102,7 +102,7 @@ The program follows the classical **NTU-effectiveness method** for shell-and-tub
 
 | Step | Description |
 |------|-------------|
-| Heat capacity rates | $C_h = \dot{m}_h \cdot c_{p,h}$ and $C_c = \dot{m}_c \cdot c_{p,c}$ |
+| Heat capacity rates | $C_{h} = \dot{m}_{h} \cdot c_{p,h}$ and $C_{c} = \dot{m}_{c} \cdot c_{p,c}$ |
 | Effectiveness | $\varepsilon = \frac{Q}{Q_{max}}$ |
 | NTU | Number of Transfer Units for 1-pass or 2-pass configuration |
 | Surface area | $S_0 = \frac{NTU \cdot C_{min}}{U_0}$ |
@@ -131,12 +131,6 @@ The program follows the classical **NTU-effectiveness method** for shell-and-tub
 | **CoolProp** | Thermophysical property library |
 | **NumPy** | Numerical computations |
 | **fpdf2** | PDF report generation |
-
----
-
-## License
-
-This project is provided for educational and engineering purposes.
 
 ---
 
